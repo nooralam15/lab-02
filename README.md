@@ -1,13 +1,11 @@
-CMPUT 301: Lab 1 Participation Exercise
+# CMPUT 301: Lab 2 Participation Exercise
 
-Student Details
+## Student Details
+- **Full Name:** `Noor Alam`
+- **CCID:** `ntalam`
 
-Full Name: Noor Alam
-CCID: ntalam
-References and Resources
-
+## References and Resources
 OpenAI, ChatGPT 5.6-Terra (code using this has been cited in MainActivity.kt)
 
-Verbal Collaboration
-
+## Verbal Collaboration
 N/A
